@@ -1,0 +1,3 @@
+The process of cutting down the tree is called PRUNNING. We use max_depth= 4 for pruning
+LOW BIAS (HIGH ACCURACY IN TRAINING DATA)+ LOW VARIANCE(HIGH ACCURACY IN TESTING DATA) = GENERALISED MODEL
+
